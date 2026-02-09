@@ -189,7 +189,7 @@ Este projeto é de código aberto e está disponível para fins educacionais e p
 
 Sinta-se à vontade para entrar em contato:
 
-- **Email**: [Seu email aqui]
+- **Email**: luiz.teixeira.silva2801@gmail.com
 - **LinkedIn**: [linkedin.com/in/luizfelipeteixeirasilva](https://linkedin.com/in/luizfelipeteixeirasilva)
 - **GitHub**: [github.com/LuizFelipe2801](https://github.com/LuizFelipe2801)
 
@@ -208,7 +208,7 @@ Sinta-se à vontade para entrar em contato:
 
 ---
 
-**Desenvolvido com ❤️ por Luiz Felipe Teixeira Silva**
+**Desenvolvido por Luiz Felipe Teixeira Silva**
 
 *Última atualização: 09 de Fevereiro de 2026*
 
