@@ -325,6 +325,42 @@ main > section {
   margin-bottom: 10px;
 }
 
+/* Item 3 */
+.timeline-item3 {
+  display: flex;
+  gap: 25px;
+  background: #1f1f1f;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 0 12px #ff6a00cc;
+  margin-bottom: 25px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.timeline-item3 img {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 20px #ff6a00bb;
+}
+
+.timeline-item3 div {
+  flex: 1;
+  color: #ddd;
+}
+
+.timeline-item3 h3 {
+  margin-bottom: 6px;
+}
+
+.timeline-item3 .date {
+  font-weight: 600;
+  color: #ff6a00;
+  margin-bottom: 10px;
+}
+
 
 /* Portfolio */
 .portfolio-grid {
